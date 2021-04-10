@@ -2,7 +2,7 @@
 Name=Bloom
 # Version=20201031
 Comment=A beautiful icon theme.
-Inherits=Papirus,Adwaita,hicolor
+Inherits=Numix,breeze,hicolor
 #Example=folder
 
 # KDE/Plasma Stuff
@@ -22,40 +22,7 @@ SmallSizes=16,22,24,32,48
 
 
 # Directory list
-Directories=16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/mimetypes,16x16/panel,16x16/places,16x16/status,18x18/actions,20x20/status,22x22/actions,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/mimetypes,22x22/panel,22x22/places,22x22/status,24x24/actions,24x24/apps,24x24/categories,24x24/devices,24x24/emblems,24x24/mimetypes,24x24/panel,24x24/places,24x24/status,32x32/apps,32x32/categories,32x32/devices,32x32/mimetypes,32x32/places,32x32/status,48x48/apps,48x48/categories,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,64x64/actions,64x64/apps,64x64/categories,64x64/devices,64x64/mimetypes,64x64/places,64x64/status,128x128/apps,128x128/categories,128x128/devices,128x128/mimetypes,128x128/places,128x128/status,256x256/apps,256x256/categories,256x256/devices,256x256/mimetypes,256x256/places,256x256/status,512x512/apps,16x16@2x/actions,16x16@2x/apps,16x16@2x/categories,16x16@2x/devices,16x16@2x/mimetypes,16x16@2x/panel,16x16@2x/places,16x16@2x/status,18x18@2x/actions,20x20@2x/status,22x22@2x/actions,22x22@2x/apps,22x22@2x/categories,22x22@2x/devices,22x22@2x/emblems,22x22@2x/mimetypes,22x22@2x/panel,22x22@2x/places,22x22@2x/status,24x24@2x/actions,24x24@2x/apps,24x24@2x/categories,24x24@2x/devices,24x24@2x/emblems,24x24@2x/mimetypes,24x24@2x/panel,24x24@2x/places,24x24@2x/status,32x32@2x/apps,32x32@2x/categories,32x32@2x/devices,32x32@2x/mimetypes,32x32@2x/places,32x32@2x/status,48x48@2x/apps,48x48@2x/categories,48x48@2x/devices,48x48@2x/mimetypes,48x48@2x/places,48x48@2x/status,64x64@2x/actions,64x64@2x/apps,64x64@2x/categories,64x64@2x/devices,64x64@2x/mimetypes,64x64@2x/places,64x64@2x/status,128x128@2x/apps,128x128@2x/categories,128x128@2x/devices,128x128@2x/mimetypes,128x128@2x/places,128x128@2x/status,256x256@2x/apps,256x256@2x/categories,256x256@2x/devices,256x256@2x/mimetypes,256x256@2x/places,256x256@2x/status,512x512@2x/apps,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
-# Actions
-[16x16/actions]
-Context=Actions
-Size=16
-Type=Fixed
-
-[18x18/actions]
-Context=Actions
-Size=18
-Type=Fixed
-
-[22x22/actions]
-Context=Actions
-Size=22
-Type=Fixed
-
-[24x24/actions]
-Context=Actions
-Size=24
-Type=Fixed
-
-[64x64/actions]
-Context=Actions
-Size=64
-Type=Fixed
-
-[scalable/actions]
-Context=Actions
-Size=16
-MinSize=16
-MaxSize=256
-Type=Scalable
-
+Directories=16x16/apps,16x16/categories,16x16/devices,16x16/mimetypes,16x16/panel,16x16/places,16x16/status,20x20/status,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/mimetypes,22x22/panel,22x22/places,22x22/status,24x24/apps,24x24/categories,24x24/devices,24x24/emblems,24x24/mimetypes,24x24/panel,24x24/places,24x24/status,32x32/apps,32x32/categories,32x32/devices,32x32/mimetypes,32x32/places,32x32/status,48x48/apps,48x48/categories,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,64x64/apps,64x64/categories,64x64/devices,64x64/mimetypes,64x64/places,64x64/status,128x128/apps,128x128/categories,128x128/devices,128x128/mimetypes,128x128/places,128x128/status,256x256/apps,256x256/categories,256x256/devices,256x256/mimetypes,256x256/places,256x256/status,512x512/apps,16x16@2x/apps,16x16@2x/categories,16x16@2x/devices,16x16@2x/mimetypes,16x16@2x/panel,16x16@2x/places,16x16@2x/status,20x20@2x/status,22x22@2x/apps,22x22@2x/categories,22x22@2x/devices,22x22@2x/emblems,22x22@2x/mimetypes,22x22@2x/panel,22x22@2x/places,22x22@2x/status,24x24@2x/apps,24x24@2x/categories,24x24@2x/devices,24x24@2x/emblems,24x24@2x/mimetypes,24x24@2x/panel,24x24@2x/places,24x24@2x/status,32x32@2x/apps,32x32@2x/categories,32x32@2x/devices,32x32@2x/mimetypes,32x32@2x/places,32x32@2x/status,48x48@2x/apps,48x48@2x/categories,48x48@2x/devices,48x48@2x/mimetypes,48x48@2x/places,48x48@2x/status,64x64@2x/apps,64x64@2x/categories,64x64@2x/devices,64x64@2x/mimetypes,64x64@2x/places,64x64@2x/status,128x128@2x/apps,128x128@2x/categories,128x128@2x/devices,128x128@2x/mimetypes,128x128@2x/places,128x128@2x/status,256x256@2x/apps,256x256@2x/categories,256x256@2x/devices,256x256@2x/mimetypes,256x256@2x/places,256x256@2x/status,512x512@2x/apps,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
 
 # Applications
 
@@ -413,38 +380,6 @@ Type=Scalable
 #
 # HiDPi @2x scale
 #
-
-
-# Actions
-[16x16@2x/actions]
-Context=Actions
-Scale=2
-Size=16
-Type=Fixed
-
-[18x18@2x/actions]
-Context=Actions
-Scale=2
-Size=18
-Type=Fixed
-
-[22x22@2x/actions]
-Context=Actions
-Scale=2
-Size=22
-Type=Fixed
-
-[24x24@2x/actions]
-Context=Actions
-Scale=2
-Size=24
-Type=Fixed
-
-[64x64@2x/actions]
-Context=Actions
-Scale=2
-Size=64
-Type=Fixed
 
 
 # Applications
