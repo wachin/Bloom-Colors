@@ -1,11 +1,6 @@
-<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
 <title>Pop Symbolic Icon Theme</title>
-<defs>
-<filter color-interpolation-filters="sRGB">
-<feBlend in2="BackgroundImage" mode="darken"/>
-</filter>
-</defs>
-<g transform="translate(-685 -24.997)" fill="#444">
-<path d="m693 26.001c-3.866 0-7 3.1341-7 7 0 3.866 3.134 7 7 7s7-3.134 7-7c0-1.1387-0.27926-2.2098-0.76172-3.1602l-5.5508 6.3438-0.6875 0.8125-0.78125-0.75-3-3c-0.37638-0.37633-0.37635-1.0611 0-1.4375 0.37636-0.37635 1.0612-0.37638 1.4375 0l2.25 2.25 5.1484-5.8906c-1.2745-1.333-3.0649-2.168-5.0547-2.168z" fill="#444"/>
+<g transform="translate(-685 -24.997)" fill="#666">
+<path d="m693 26.001c-3.866 0-7 3.1341-7 7 0 3.866 3.134 7 7 7s7-3.134 7-7c0-1.1387-0.27926-2.2098-0.76172-3.1602l-5.5508 6.3438-0.6875 0.8125-0.78125-0.75-3-3c-0.37638-0.37633-0.37635-1.0611 0-1.4375 0.37636-0.37635 1.0612-0.37638 1.4375 0l2.25 2.25 5.1484-5.8906c-1.2745-1.333-3.0649-2.168-5.0547-2.168z" fill="#666"/>
 </g>
 </svg>
