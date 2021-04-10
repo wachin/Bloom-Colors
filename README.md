@@ -4,12 +4,20 @@ From https://github.com/linuxdeepin/deepin-icon-theme forked by HENDRA https://w
 ## DEPENDENCIAS
 Este tema de iconos necesita para funcionar los temas de iconos Numix y Breeze
 
-sudo apt install numix breeze
+Instalar:
+
+```
+sudo apt install numix-icon-theme breeze-icon-theme
+```
+
+
 
 ## INSTALACIÓN
 Como super administrador ejemplo con el administrador de archivos thunar:
 
+```
 sudo thunar
+```
 
 copie la carpeta Bloom-Color a 
 
