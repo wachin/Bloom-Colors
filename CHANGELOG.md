@@ -1,2 +1,2 @@
 ## 2021.04.10
-
+He modificado el Fork que hizo HENDRA, le he borrado los iconos actions porque quería usar unos que tengan mucho color así que luego de borrarlos modifiqué el archivo index.html en inherits para usar los de Numix y Breeze
